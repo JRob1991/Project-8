@@ -103,3 +103,5 @@
   });
   addParagraph('#answer6', sellerMadeItems.length + ' were made by their sellers');
 }());
+
+////////
